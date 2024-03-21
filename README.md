@@ -7,7 +7,7 @@ Computer Science
 
 IT🖥️,Coding🧑‍💻,Networking🛜,Systems💾,CyberSecurity🔐
 
-* 🖥️  See my portfolio at [fredybicandy.42web.io](http://http://freddybicandy.42web.io/)
+* 🖥️  See my portfolio at [bicandy-new.42web.io](https://bicandy-new.42web.io/)
 * ✉️  You can contact me at [fredybicandy085@gmail.com](mailto:fredybicandy085@gmail.com)
 * 🚀  I'm currently working on [Projects Repo](http://https://github.com/FreddyBicandy50/Projects.git)
 * 🧠  I'm learning laravel and Vue Js### Skills
