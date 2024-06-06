@@ -2,15 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freddy Bicandy
 ======================================================================================================================================
 
-# 💫 About Me:
-Computer Software Engineer
-======================================================================================================================================
-<br>
+
+# Computer Software Engineer
+
 Software Development🧑‍💻<br>
 System Administration💾<br>
 Routing & Switching🛜<br>
 Dev Sec Ops🔐🖥️<br>
-======================================================================================================================================
 
 🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects https://github.com/FreddyBicandy50?tab=repositories<br>
 
