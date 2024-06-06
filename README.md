@@ -13,7 +13,7 @@ Dev Sec Ops🔐🖥️<br>
 🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects [repositories]https://github.com/FreddyBicandy50?tab=repositories<br>
 
 # 💻 Tech Stack:
-##Software Development
+## Software Development
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
