@@ -6,6 +6,7 @@ Freddy Bicandy
 
 Computer Software Engineer
 ======================================================================================================================================
+<br>
 Software Development🧑‍💻<br>
 System Administration💾<br>
 Routing & Switching🛜<br>
