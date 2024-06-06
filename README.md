@@ -7,10 +7,9 @@ Computer Science
 
 IT🖥️,Coding🧑‍💻,Networking🛜,Systems💾,CyberSecurity🔐
 
-* 🖥️  portfolio Under Construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)
+* 🖥️  portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)
 * ✉️  You can contact me at [fredybicandy085@gmail.com](mailto:fredybicandy085@gmail.com)
-* 🚀  I'm currently working on [Projects Repo](http://https://github.com/FreddyBicandy50/Projects.git)
-* 🧠  I'm learning laravel and Vue Js### Skills
+* 🚀  See all my repos on [Projects Repo](https://github.com/FreddyBicandy50)
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
