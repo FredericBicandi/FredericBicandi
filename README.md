@@ -10,17 +10,14 @@ System Administration💾<br>
 Routing & Switching🛜<br>
 Dev Sec Ops🔐🖥️<br>
 
-🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects https://github.com/FreddyBicandy50?tab=repositories<br>
-
-## 🌐 Socials:
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/freddy-bicandy/)
+🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects [repositories]https://github.com/FreddyBicandy50?tab=repositories<br>
 
 # 💻 Tech Stack:
-
+##Software Development
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -54,9 +51,3 @@ Dev Sec Ops🔐🖥️<br>
 ![](https://github-readme-stats.vercel.app/api?username=FreddyBicandy50&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FreddyBicandy50&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBicandy50&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=FreddyBicandy50&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
