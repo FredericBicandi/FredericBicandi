@@ -9,7 +9,7 @@ IT🖥️,Coding🧑‍💻,Networking🛜,Systems💾,CyberSecurity🔐
 
 * 🖥️  portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)
 * ✉️  You can contact me at [fredybicandy085@gmail.com](mailto:fredybicandy085@gmail.com)
-* 🚀  See all my repos on [Projects Repo](https://github.com/FreddyBicandy50)
+* 🚀  See all my repos on [Projects Repo](https://github.com/FreddyBicandy50?tab=repositories)
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
