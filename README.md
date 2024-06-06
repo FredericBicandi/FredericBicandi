@@ -3,9 +3,15 @@ Freddy Bicandy
 ======================================================================================================================================
 
 # 💫 About Me:
-# 💫 About Me:
 
-Computer Software Engineer <br>--------------------------------<br>Software Development🧑‍💻<br>System Administration💾<br>Routing & Switching🛜<br>Dev Sec Ops🔐🖥️<br><br>---------------------------------<br>🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects https://github.com/FreddyBicandy50?tab=repositories<br>
+Computer Software Engineer
+======================================================================================================================================
+Software Development🧑‍💻<br>
+System Administration💾<br>
+Routing & Switching🛜<br>
+Dev Sec Ops🔐🖥️<br>
+======================================================================================================================================
+🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects https://github.com/FreddyBicandy50?tab=repositories<br>
 
 ## 🌐 Socials:
 
