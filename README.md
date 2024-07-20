@@ -7,7 +7,7 @@ Freddy Bicandy
 Software Development🧑‍💻<br>
 System Administration💾<br>
 Routing & Switching🛜<br>
-Dev Sec Ops🔐🖥️<br>
+Dev Ops🔐🖥️<br>
 
 🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects [repositories]https://github.com/FreddyBicandy50?tab=repositories<br>
 
@@ -24,7 +24,6 @@ Dev Sec Ops🔐🖥️<br>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Backend
@@ -32,7 +31,6 @@ Dev Sec Ops🔐🖥️<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
