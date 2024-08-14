@@ -8,8 +8,10 @@ Freddy Bicandy
   <img width="5%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
   <img width="5%" src="https://upload.wikimedia.org/wikipedia/en/6/6c/Lebanese_International_University_%28logo%29.png"/>
 </p>
----
+
+
 #interest
+
 Software Development🧑‍💻<br>
 System Administration💾<br>
 Routing & Switching🛜<br>
