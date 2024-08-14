@@ -4,7 +4,7 @@ Freddy Bicandy
 
 # Computer Software Engineer Student
 
-<p align="center">
+<p align="left">
   <img width="10%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
 </p>
 
