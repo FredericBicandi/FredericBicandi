@@ -5,7 +5,7 @@ Freddy Bicandy
 # Computer Software Engineer Student
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/FreddyBicandy50/42draft/main/42_badges/born2beroote.png" alt="Born2beroot 42 project badge](https://www.google.com/url?sa=i&url=https%3A%2F%2F42beirut.com%2F&psig=AOvVaw1XbNPnPcfYKO9lfDpOpqrs&ust=1723710687775000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDwgeuI9IcDFQAAAAAdAAAAABAE)"/>
+  <img src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
 </p>
 
 Software Development🧑‍💻<br>
