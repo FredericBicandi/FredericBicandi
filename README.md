@@ -3,7 +3,10 @@ Freddy Bicandy
 ======================================================================================================================================
 
 # Computer Software Engineer Student
-[42Beirut] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoh_Mq-eQOukqZggMwHg5BnLwFaGnE7mo5w&s<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FreddyBicandy50/42draft/main/42_badges/born2beroote.png" alt="Born2beroot 42 project badge"/>
+</p>
 
 Software Development🧑‍💻<br>
 System Administration💾<br>
