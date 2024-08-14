@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freddy Bicandy
 ======================================================================================================================================
 
-# Computer Software Engineer
+# Computer Software Engineer Student
+[42Beirut] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoh_Mq-eQOukqZggMwHg5BnLwFaGnE7mo5w&s<br>
 
 Software Development🧑‍💻<br>
 System Administration💾<br>
