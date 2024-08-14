@@ -12,9 +12,8 @@ Freddy Bicandy
 
 ## interest
 
-Software Development🧑‍💻<br>
-System Administration💾<br>
-Routing & Switching🛜<br>
+Software & System Development🧑‍💻<br>
+Networking / Routing & Switching🛜<br>
 Dev Ops🔐🖥️<br>
 
 🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my repos on Projects [repositories]https://github.com/FreddyBicandy50?tab=repositories<br>
