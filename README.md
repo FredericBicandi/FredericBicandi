@@ -38,6 +38,4 @@ Dev Ops🔐🖥️<br>
 ### Microcontrollers
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="5%"/><img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberry Pi" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="5%"/>
 
-[![Star History](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)](https://github.com/lucabubi/star-history)
-
 FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
