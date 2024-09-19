@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freddy Bicandy
 ======================================================================================================================================
 
-# Computer Science & Software Engineer Student
+# Im Computer Science & Software Engineer Student
 
 <p align="left">
   <img width="5%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
@@ -10,7 +10,7 @@ Freddy Bicandy
 </p>
 
 
-## interest
+## Interest
 
 Software & System Development🧑‍💻<br>
 Networking / Routing & Switching🛜<br>
