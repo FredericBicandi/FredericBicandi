@@ -15,9 +15,7 @@ Freddy Bicandy
 Software & System Development🧑‍💻<br>
 Networking / Routing & Switching🛜<br>
 Dev Ops🔐🖥️<br>
-
-🖥️ portfolio under construction at [bicandy-new.42web.io](https://bicandy-new.42web.io/)<br>✉️ You can contact me at fredybicandy085@gmail.com<br>🚀 See all my Projects [repositories](https://github.com/FreddyBicandy50?tab=repositories)<br>
-
+ 
 ## 💻 Tech Stack:
 
 ### Software Development
@@ -40,8 +38,7 @@ Dev Ops🔐🖥️<br>
 ### Microcontrollers
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="5%"/><img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberry Pi" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="5%"/>
 
-# 📊 GitHub Stats:
+[![Star History](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)](https://github.com/lucabubi/star-history)
 
-![](https://github-readme-stats.vercel.app/api?username=FreddyBicandy50&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FreddyBicandy50&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBicandy50&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
