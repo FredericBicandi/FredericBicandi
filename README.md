@@ -12,7 +12,7 @@ Freddy Bicandy
 
 ## Interest
 
-Software & System Design&Development🧑‍💻<br>
+Software Applications/Systems Development🧑‍💻<br>
 Networking🌐<br>
 Dev Ops🔐🖥️<br>
 
