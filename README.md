@@ -13,7 +13,7 @@ Freddy Bicandy
 ## Interest
 
 Software & System Development🧑‍💻<br>
-Networking / Routing & Switching🛜<br>
+Networks🌐<br>
 Dev Ops🔐🖥️<br>
  
 ## 💻 Tech Stack:
