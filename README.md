@@ -5,8 +5,8 @@ Freddy Bicandy
 # Computer Science & Software Engineer Student
 
 <p align="left">
-  <img width="5%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
-  <img width="5%" src="https://upload.wikimedia.org/wikipedia/en/6/6c/Lebanese_International_University_%28logo%29.png"/>
+  <img width="15%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
+  <img width="15%" src="https://upload.wikimedia.org/wikipedia/en/6/6c/Lebanese_International_University_%28logo%29.png"/>
 </p>
 
 
@@ -25,7 +25,7 @@ Dev Ops🔐🖥️<br>
 ### Client side
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="5%"/>
 
-#### Backend
+### Backend
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" width="5%"/> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="5%"/>
 
 ### Tools
