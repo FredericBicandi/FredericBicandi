@@ -2,8 +2,11 @@
 
 ## Computer Science & Software Engineer Student
 <p align="center">
+<a href="" style="text-decoration: none;">
+    <img width="9%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
+</a>
 <a href="">
-    <img width="9%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9k7bZMAtgsDjDhk70PiB4QC4RfpkQ_LVnDA&s"/>
+    <img width="10%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"/>
 </a>
 </p>
 
