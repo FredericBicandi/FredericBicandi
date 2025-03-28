@@ -18,8 +18,8 @@
 <a href="https://github.com/FreddyBicandy50/42-ft_printf/">![ft_Printf](https://github.com/FreddyBicandy50/42-ft_printf/blob/main/ft_printfe.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-Born2beroot/">![Born2BeRoot](https://github.com/FreddyBicandy50/42-Born2beroot/blob/main/born2beroote.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-fdf/">![FDF](https://github.com/FreddyBicandy50/42-fdf/blob/main/fdfe.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-push_swap/">![push_swap](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-
+<a href="https://github.com/FreddyBicandy50/42-push_swap/">![push_swap](https://github.com/FreddyBicandy50/42-push_swap/blob/main/push_swape.png)</a>
+<a href="https://github.com/FreddyBicandy50/42-pipex/">![pipex](https://github.com/FreddyBicandy50/42-pipex/blob/main/pipexe.png)</a>
 </div>
 
 &#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
