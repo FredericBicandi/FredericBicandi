@@ -22,7 +22,6 @@
 <a href="https://github.com/FreddyBicandy50/42-pipex/">![pipex](https://github.com/FreddyBicandy50/42-pipex/blob/main/pipexe.png)</a>
 </div>
 
-&#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
 
 ---
 
@@ -30,6 +29,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcombeau&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBicandy50&hide=html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcombeau&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
