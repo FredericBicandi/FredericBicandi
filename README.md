@@ -12,14 +12,13 @@ Freddy Bicandy
 # 42 school projects
 
 <p align="left">
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-Libft"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-ft_printf"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-get_next_line"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-Born2beroot"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-push_swap"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-pipex"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-fdf"/>
-  <img width="15%" src="https://github.com/FreddyBicandy50/42-minishell"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-Libft/blob/main/libfte.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-ft_printf/blob/main/ft_printfe.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-get_next_line/blob/main/get_next_linee.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-Born2beroot/blob/main/born2beroote.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-push_swap/blob/main/push_swape.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-pipex/blob/main/pipexe.png"/>
+  <img width="15%" src="https://github.com/FreddyBicandy50/42-fdf/blob/main/fdfe.png"/>
 </p>
 
 
