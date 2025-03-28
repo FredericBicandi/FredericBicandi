@@ -2,14 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freddy Bicandy
 ======================================================================================================================================
 
-# Computer Science & Software Engineer Student
+## Computer Science & Software Engineer Student
 
 <p align="left">
   <img width="15%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
   <img width="15%" src="https://upload.wikimedia.org/wikipedia/en/6/6c/Lebanese_International_University_%28logo%29.png"/>
 </p>
 
-# 42 school projects
+### 42 school projects
 
 <p align="left">
   <img width="15%" src="https://github.com/FreddyBicandy50/42-Libft/blob/main/libfte.png"/>
