@@ -2,7 +2,9 @@
 
 ## Computer Science & Software Engineer Student
 <p align="center">
-<a href="https://github.com/mcombeau/libft"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png"></a>
+<a href="">
+    <img width="9%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9k7bZMAtgsDjDhk70PiB4QC4RfpkQ_LVnDA&s"/>
+</a>
 </p>
 
 ## 42 school projects
