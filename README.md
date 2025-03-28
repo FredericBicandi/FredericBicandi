@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Freddy Bicandy.
 
-### Computer Science & Software Engineer Student
+## Computer Science & Software Engineer Student
 <hr>
 <p align="left">
   <img width="15%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
