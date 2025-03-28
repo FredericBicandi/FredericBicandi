@@ -8,6 +8,12 @@
 </div>
 
 ## 42 school projects
-<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+
+
+<div align="center">
+    <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+
+</div>
+
 
 ##### FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
