@@ -8,8 +8,6 @@
 </div>
 
 ## 42 school projects
-
-
 <div align="center">
 <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 
