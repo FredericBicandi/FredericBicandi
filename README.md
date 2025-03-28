@@ -14,18 +14,13 @@
 ### 42 school projects
 
 <div align="center">
-    <a href="#">![]()</a>
-    <a href="">
-        ![]()
-    </a>
-    <a href="#">![](https://github.com/FreddyBicandy50/42-Libft/blob/main/libfte.png)</a>
-    <a href="#">![](https://github.com/FreddyBicandy50/42-get_next_line/blob/main/get_next_linee.png)
-    </a>
-    <a href="">![](https://github.com/FreddyBicandy50/42-ft_printf/blob/main/ft_printfe.png)</a>
-    <a href="">![](https://github.com/FreddyBicandy50/42-Born2beroot/blob/main/born2beroote.png)</a>
-    <a href="">![](https://github.com/FreddyBicandy50/42-fdf/blob/main/fdfe.png)</a>
-    <a href="">![](https://github.com/FreddyBicandy50/42-push_swap/blob/main/push_swape.png)</a>
-    <a href="">![](https://github.com/FreddyBicandy50/42-pipex/blob/main/pipexe.png)</a>
+<a href="#">![](https://github.com/FreddyBicandy50/42-Libft/blob/main/libfte.png)</a>
+<a href="#">![](https://github.com/FreddyBicandy50/42-get_next_line/blob/main/get_next_linee.png)</a>
+<a href="">![](https://github.com/FreddyBicandy50/42-ft_printf/blob/main/ft_printfe.png)</a>
+<a href="">![](https://github.com/FreddyBicandy50/42-Born2beroot/blob/main/born2beroote.png)</a>
+<a href="">![](https://github.com/FreddyBicandy50/42-fdf/blob/main/fdfe.png)</a>
+<a href="">![](https://github.com/FreddyBicandy50/42-push_swap/blob/main/push_swape.png)</a>
+<a href="">![](https://github.com/FreddyBicandy50/42-pipex/blob/main/pipexe.png)</a>
 
 </div>
 
