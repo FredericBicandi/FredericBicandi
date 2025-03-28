@@ -33,6 +33,6 @@
 
 </div>
 
-##### FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/) why the fuck the images not showin i see texts only
+##### FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
 
 
