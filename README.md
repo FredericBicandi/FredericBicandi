@@ -7,7 +7,7 @@
   <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
   </a>
   <a href="https://liu.edu.lb/NewLIU2022/"> 
-    <img width="6%" src="https://upload.wikimedia.org/wikipedia/en/6/6c/Lebanese_International_University_%28logo%29.png"/>
+    <img width="6%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"
   </a>
 </p>
 
