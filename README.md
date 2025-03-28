@@ -2,14 +2,10 @@
 
 ## Computer Science & Software Engineer Student
 
-<p align="left">
-  <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)
-  </a>
+<div align="center">
+    <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 
-  <a href="https://liu.edu.lb/NewLIU2022/"> 
-    <img width="15%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"
-  </a>
-</p>
+</div>
 
 ## 42 school projects
 <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
