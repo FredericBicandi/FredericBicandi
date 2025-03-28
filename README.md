@@ -14,27 +14,24 @@
 ### 42 school projects
 
 <div align="center">
-  <a href="#" style="">
-    <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-Libft/refs/heads/main/libfte.png?token=GHSAT0AAAAAADAXVRILRMHBNPSMR2HGWMA4Z7G6WCQ"/>
-  </a>
-  <a href="#" style=""> 
-    <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-ft_printf/refs/heads/main/ft_printfe.png?token=GHSAT0AAAAAADAXVRIKDHBKZSIKOI5T6YBEZ7G6WOA"/>
-    </a>
-  <a href="#" style="">
-  <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-get_next_line/refs/heads/main/get_next_linee.png?token=GHSAT0AAAAAADAXVRIKCSTVGMBTZZNCHBJ6Z7G6XCA"/>
-  </a>
-  <a href="#" style="">
-  <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-Born2beroot/refs/heads/main/born2beroote.png?token=GHSAT0AAAAAADAXVRILSG7M2YOBYKQ7NMR6Z7G6XJA"/>
-  </a>
-  <a href="https://github.com/FreddyBicandy50/42-push_swap" style="">
-  <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-push_swap/refs/heads/main/push_swape.png"/>
-  </a>
-  <a href="https://github.com/FreddyBicandy50/42-pipex" style="">
-  <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-pipex/refs/heads/main/pipexe.png"/>
-  </a>
-  <a href="https://github.com/FreddyBicandy50/42-fdf" style="">
-  <img width="15%" src="https://raw.githubusercontent.com/FreddyBicandy50/42-fdf/refs/heads/main/fdfe.png"/>
-  </a>
+
+<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/mcombeau/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
+<a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/mcombeau/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/mcombeau/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
+
 </div>
+
 
 ##### FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
