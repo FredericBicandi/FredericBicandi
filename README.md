@@ -13,7 +13,7 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/FreddyBicandy50/42-Libft">![lib_ft Badge](https://github.com/FreddyBicandy50/42-Libft/blob/main/libfte.png)</a>
+<a href="https://github.com/FreddyBicandy50/42-Libft">![lib_ft Badge](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/libftm.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-get_next_line/">![ft_get_next_line](https://github.com/FreddyBicandy50/42-get_next_line/blob/main/get_next_linee.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-ft_printf/">![ft_Printf](https://github.com/FreddyBicandy50/42-ft_printf/blob/main/ft_printfe.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-Born2beroot/">![Born2BeRoot](https://github.com/FreddyBicandy50/42-Born2beroot/blob/main/born2beroote.png)</a>
