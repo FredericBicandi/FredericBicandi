@@ -22,6 +22,7 @@
 <a href="https://github.com/FreddyBicandy50/42-pipex/">![pipex](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-minishell">![minishell](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-philosophers/">![philosophers](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/FreddyBicandy50/42-philosophers/">![cub3D](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/cub3de.png)</a>
 </div>
 
 
