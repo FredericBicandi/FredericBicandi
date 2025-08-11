@@ -23,6 +23,7 @@
 <a href="https://github.com/FreddyBicandy50/42-minishell">![minishell](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-philosophers/">![philosophers](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/FreddyBicandy50/42-cub3d.git/">![cub3D](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/FreddyBicandy50/42-netpractice.git/">![netpractice](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/netpracticee.png?raw=true)</a>
 </div>
 
 
