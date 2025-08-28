@@ -13,17 +13,17 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/FreddyBicandy50/42-Libft">![lib_ft Badge](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-get_next_line/">![ft_get_next_line](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-ft_printf/">![ft_Printf](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-Born2beroot/">![Born2BeRoot](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-fdf/">![FDF](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/fdfe.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-push_swap/">![push_swap](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-pipex/">![pipex](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-minishell">![minishell](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/minishelle.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-philosophers/">![philosophers](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-cub3d.git/">![cub3D](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/cub3de.png)</a>
-<a href="https://github.com/FreddyBicandy50/42-netpractice.git/">![netpractice](https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/netpracticee.png?raw=true)</a>
+<a href="https://github.com/FredericBicandi/42-Libft">![lib_ft Badge](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/FredericBicandi/42-get_next_line/">![ft_get_next_line](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/FredericBicandi/42-ft_printf/">![ft_Printf](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/FredericBicandi/42-Born2beroot/">![Born2BeRoot](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/FredericBicandi/42-fdf/">![FDF](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/fdfe.png)</a>
+<a href="https://github.com/FredericBicandi/42-push_swap/">![push_swap](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/FredericBicandi/42-pipex/">![pipex](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/FredericBicandi/42-minishell">![minishell](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/FredericBicandi/42-philosophers/">![philosophers](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/FredericBicandi/42-cub3d.git/">![cub3D](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/FredericBicandi/42-netpractice.git/">![netpractice](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/netpracticee.png?raw=true)</a>
 </div>
 
 
@@ -37,6 +37,6 @@
 
 </div>
 
-##### FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
+##### FredericBicandi | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
 
 
