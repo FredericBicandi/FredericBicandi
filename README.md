@@ -24,7 +24,7 @@
 <a href="https://github.com/FredericBicandi/42-philosophers/">![philosophers](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/FredericBicandi/42-cub3d.git/">![cub3D](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/cub3de.png)</a>
 <a href="https://github.com/FredericBicandi/42-netpractice.git/">![netpractice](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/netpracticee.png?raw=true)</a>
-<a href="https://github.com/FredericBicandi/42-ft_irc/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/FredericBicandi/42-ft_irc/">![ft_irc](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_irce.png)</a>
 <a href="https://github.com/FredericBicandi/42-CPP-Modules/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/cppm.png)</a>
 </div>
 
