@@ -39,6 +39,6 @@
 
 </div>
 
-##### FredericBicandi | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
+##### FredericBicandi | LinkedIn: [Frédéric Bicandi](https://www.linkedin.com/in/fredericbicandi/)
 
 
