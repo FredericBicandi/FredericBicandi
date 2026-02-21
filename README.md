@@ -34,11 +34,11 @@
 ### GitHub Stats
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericBicandi&hide=java,PLSQL,roff,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericBicandi&hide=java,PLSQL,roff,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
-    [![Skills](<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/649af760d99c9d67319a7fc2?variant=dark&roadmaps=" alt="roadmap.sh"/></a>)]
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/649af760d99c9d67319a7fc2?variant=dark&roadmaps=" alt="roadmap.sh"/></a>
 </div>
 
 
