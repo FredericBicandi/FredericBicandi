@@ -26,7 +26,7 @@
 <a href="https://github.com/FredericBicandi/Netpractice/">![netpractice](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/netpracticee.png?raw=true)</a>
 <a href="https://github.com/FredericBicandi/FT_IRC">![ft_irc](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_irce.png)</a>
 <a href="https://github.com/FredericBicandi/CPP-Modules/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/cppm.png)</a>
-<a href="https://github.com/FredericBicandi/Iception/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/FredericBicandi/Inception/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/inceptione.png)</a>
 <a href="https://github.com/FredericBicandi/FT_Transcendence/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_transcendencee.png)</a>
 
 </div>
