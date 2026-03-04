@@ -36,7 +36,6 @@
 <table>
     <tr>
         <td> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/649af760d99c9d67319a7fc2?variant=dark&roadmaps=" alt="roadmap.sh"/></a> </td>
-        <td> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/649af760d99c9d67319a7fc2?variant=dark&roadmaps=" alt="roadmap.sh"/></a> </td>
     </tr>
 </table>
 
