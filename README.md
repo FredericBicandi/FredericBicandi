@@ -13,19 +13,22 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/FredericBicandi/42-Libft">![lib_ft Badge](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/FredericBicandi/42-get_next_line/">![ft_get_next_line](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/FredericBicandi/42-ft_printf/">![ft_Printf](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/FredericBicandi/42-Born2beroot/">![Born2BeRoot](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/FredericBicandi/42-fdf/">![FDF](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/fdfe.png)</a>
-<a href="https://github.com/FredericBicandi/42-push_swap/">![push_swap](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/FredericBicandi/42-pipex/">![pipex](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/FredericBicandi/42-minishell">![minishell](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/minishelle.png)</a>
-<a href="https://github.com/FredericBicandi/42-philosophers/">![philosophers](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://github.com/FredericBicandi/42-cub3d.git/">![cub3D](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/cub3de.png)</a>
-<a href="https://github.com/FredericBicandi/42-netpractice.git/">![netpractice](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/netpracticee.png?raw=true)</a>
-<a href="https://github.com/FredericBicandi/42-ft_irc/">![ft_irc](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_irce.png)</a>
-<a href="https://github.com/FredericBicandi/42-CPP-Modules/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/cppm.png)</a>
+<a href="https://github.com/FredericBicandi/lib_FT/">![lib_ft Badge](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/FredericBicandi/GNL/">![ft_get_next_line](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/FredericBicandi/FT_Printf/">![ft_Printf](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/FredericBicandi/Born2beroot/">![Born2BeRoot](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/FredericBicandi/FdF/">![FDF](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/fdfe.png)</a>
+<a href="https://github.com/FredericBicandi/Push_Swap/">![push_swap](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/FredericBicandi/Pipex/">![pipex](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/FredericBicandi/Minishell">![minishell](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/FredericBicandi/Philosophers/">![philosophers](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/FredericBicandi/cub3D/">![cub3D](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/FredericBicandi/Netpractice/">![netpractice](https://github.com/FredericBicandi/FredericBicandi/blob/main/42_badges/netpracticee.png?raw=true)</a>
+<a href="https://github.com/FredericBicandi/FT_IRC">![ft_irc](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/FredericBicandi/CPP-Modules/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/cppm.png)</a>
+<a href="https://github.com/FredericBicandi/Iception/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/FredericBicandi/FT_Transcendence/">![cppmodule](https://raw.githubusercontent.com/FredericBicandi/FredericBicandi/refs/heads/main/42_badges/ft_transcendencee.png)</a>
+
 </div>
 
 
