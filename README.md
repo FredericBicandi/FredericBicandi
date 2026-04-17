@@ -1,10 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)this is Frederic Bicandi.
 
-### Computer Science & Software Engineer Student
+### IT, Computer Science & Software Engineer Student
 
 <div align="left">
     <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
     <img width="7%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"/>
+    <img width="7%" src="https://lh3.googleusercontent.com/proxy/JXyXAFqjz5DfdwVtlv2bkzwaqHCJhrgwQUniTPW9YYFIzmhjSlaEIXiNrektVA1ze89Efcz0s97XpWw"/>
 </div>
 
 
