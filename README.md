@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)this is Frederic Bicandi.
 
-### IT, Computer Science & Software Engineer Student
+### IT, Computer Science & Software Engineer
 
 <div align="left">
     <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
