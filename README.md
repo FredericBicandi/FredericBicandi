@@ -3,9 +3,15 @@
 ### IT, Computer Science & Software Engineer
 
 <div align="left">
-    <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
-    <img width="7%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"/>
-    <img width="7%" src="https://lh3.googleusercontent.com/proxy/JXyXAFqjz5DfdwVtlv2bkzwaqHCJhrgwQUniTPW9YYFIzmhjSlaEIXiNrektVA1ze89Efcz0s97XpWw"/>
+    <a href="https://42beirut.com/">
+        <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
+    </a>
+    <a href="https://liu.edu.lb/LIU/"> 
+        <img width="7%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"/>
+    </a> 
+    <a href="http://etstc-lb.com/">
+        <img width="7%" src="https://lh3.googleusercontent.com/proxy/JXyXAFqjz5DfdwVtlv2bkzwaqHCJhrgwQUniTPW9YYFIzmhjSlaEIXiNrektVA1ze89Efcz0s97XpWw"/>
+    </a>
 </div>
 
 
