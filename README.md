@@ -4,7 +4,7 @@
 
 <div align="left">
     <a href="https://42beirut.com/" target="_blank">
-        <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
+        <img width="7%" src="https://media.licdn.com/dms/image/v2/D4E0BAQHJ2Z5wjxWgLg/company-logo_200_200/company-logo_200_200/0/1695215127646?e=2147483647&v=beta&t=DD5GrskpdPhs5LRD5OXHBpCyUeUnzeRih8hE_fRIb6U"/>
     </a>
     <a href="https://liu.edu.lb/LIU/" target="_blank"> 
         <img width="7%" src="https://liu.edu.lb/NewLIU2022/common/images/logo.png"/>
